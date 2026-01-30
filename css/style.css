@@ -6,13 +6,17 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN",
-               "Noto Sans JP", "Yu Gothic", sans-serif;
+  font-family:
+    "Hiragino Mincho ProN",
+    "Yu Mincho",
+    "Noto Serif JP",
+    serif;
   font-size: 16px;
-  line-height: 1.8;
+  line-height: 1.9;
   background-color: #f7f7f5;
   color: #333333;
 }
+
 
 /* レイアウト */
 .container {
@@ -70,6 +74,7 @@ h2 {
 /* テキスト */
 p {
   margin: 0;
+  color: darksalmon;
 }
 
 /* リスト */
